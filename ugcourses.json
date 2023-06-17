@@ -1,0 +1,17 @@
+[
+  {
+    "courseName": "BA English",
+    "courseCode": "baeng",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BA Malayalam",
+    "courseCode": "bamal",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BSc Mathematics",
+    "courseCode": "bscmaths",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  }
+]
