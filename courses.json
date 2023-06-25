@@ -12,63 +12,87 @@
     "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
   },
   {
+    "courseName": "BA Economics",
+    "courseCode": "baeco",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
     "courseName": "BSc Mathematics",
     "courseCode": "bscmaths",
     "courseType": "ug",
     "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
   },
   {
-    "courseName": "MSc Mathematics",
-    "courseCode": "mscmaths",
+    "courseName": "BSc Physics",
+    "courseCode": "bscphy",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BSc Physics Voc",
+    "courseCode": "bscphyvoc",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BSc Chemistry",
+    "courseCode": "bscchem",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BSc Botany",
+    "courseCode": "bscbot",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BSc Zoology",
+    "courseCode": "bsczoo",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BCom F&T",
+    "courseCode": "bcomft",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BCom CA",
+    "courseCode": "bcomca",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BCom TT",
+    "courseCode": "bcomtt",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BCom Marketing",
+    "courseCode": "bcommark",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "BBA",
+    "courseCode": "bba",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "Int MSc Computer Science",
+    "courseCode": "intmsccs",
+    "courseType": "ug",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "MSc Chemistry",
+    "courseCode": "mscchem",
     "courseType": "pg",
-    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
-  },
-  {
-    "courseName": "BA Malayalam",
-    "courseCode": "bamal",
-    "courseType": "ug",
-    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
-  },
-  {
-    "courseName": "BSc Mathematics",
-    "courseCode": "bscmaths",
-    "courseType": "ug",
-    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
-  },
-  {
-    "courseName": "MSc Mathematics",
-    "courseCode": "mscmaths",
-    "courseType": "pg",
-    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
-  },
-  {
-    "courseName": "BA Malayalam",
-    "courseCode": "bamal",
-    "courseType": "ug",
-    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
-  },
-  {
-    "courseName": "BSc Mathematics",
-    "courseCode": "bscmaths",
-    "courseType": "ug",
-    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
-  },
-  {
-    "courseName": "MSc Mathematics",
-    "courseCode": "mscmaths",
-    "courseType": "pg",
-    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
-  },
-  {
-    "courseName": "BA Malayalam",
-    "courseCode": "bamal",
-    "courseType": "ug",
-    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
-  },
-  {
-    "courseName": "BSc Mathematics",
-    "courseCode": "bscmaths",
-    "courseType": "ug",
     "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
   },
   {
@@ -80,6 +104,18 @@
   {
     "courseName": "MA English",
     "courseCode": "maeng",
+    "courseType": "pg",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "MCom",
+    "courseCode": "mcom",
+    "courseType": "pg",
+    "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
+  },
+  {
+    "courseName": "MSc Space Science",
+    "courseCode": "mscss",
     "courseType": "pg",
     "thumbnailUrl": "https://img.freepik.com/free-photo/fun-3d-illustration-cartoon-kid-with-vr-helmet_183364-81193.jpg?w=360"
   }
