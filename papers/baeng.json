@@ -1,0 +1,37 @@
+[
+  {
+    "semester": 1,
+    "papers": [
+      {
+        "paperName": "Advanced Computation Techniques",
+        "year": "2022",
+        "paperUrl": "https://drive.google.com/file/d/1GLsBcRwwLPicpozOE_wjE8q08Itt82v4/view?usp=sharing"
+      },
+      {
+        "paperName": "Advanced Computation Techniques",
+        "year": "2021",
+        "paperUrl": "https://drive.google.com/file/d/1GLsBcRwwLPicpozOE_wjE8q08Itt82v4/view?usp=sharing"
+      },
+      {
+        "paperName": "Python Techniques",
+        "year": "2022",
+        "paperUrl": "https://drive.google.com/file/d/1GLsBcRwwLPicpozOE_wjE8q08Itt82v4/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "semester": 2,
+    "papers": [
+      {
+        "paperName": "Advanced Computation Techniques",
+        "year": "2021",
+        "paperUrl": "https://drive.google.com/file/d/1GLsBcRwwLPicpozOE_wjE8q08Itt82v4/view?usp=sharing"
+      },
+      {
+        "paperName": "Python Techniques",
+        "year": "2022",
+        "paperUrl": "https://drive.google.com/file/d/1GLsBcRwwLPicpozOE_wjE8q08Itt82v4/view?usp=sharing"
+      }
+    ]
+  }
+]
