@@ -1,37 +1,119 @@
-[
-  {
-    "semester": 1,
-    "papers": [
-      {
-        "paperName": "An Introduction to Political Science",
-        "year": "2017 - 18",
-        "paperUrl": "https://drive.google.com/file/d/1AiZdiF7S6cKeoZQPQsZ04MqoQ5_yIWD3/view"
-      },
-      {
-        "paperName": "Advanced Computation Techniques",
-        "year": "2021",
-        "paperUrl": "https://drive.google.com/file/d/1GLsBcRwwLPicpozOE_wjE8q08Itt82v4/view?usp=sharing"
-      },
-      {
-        "paperName": "Python Techniques",
-        "year": "2022",
-        "paperUrl": "https://drive.google.com/file/d/1GLsBcRwwLPicpozOE_wjE8q08Itt82v4/view?usp=sharing"
-      }
-    ]
-  },
-  {
-    "semester": 2,
-    "papers": [
-      {
-        "paperName": "Advanced Computation Techniques",
-        "year": "2021",
-        "paperUrl": "https://drive.google.com/file/d/1GLsBcRwwLPicpozOE_wjE8q08Itt82v4/view?usp=sharing"
-      },
-      {
-        "paperName": "Python Techniques",
-        "year": "2022",
-        "paperUrl": "https://drive.google.com/file/d/1GLsBcRwwLPicpozOE_wjE8q08Itt82v4/view?usp=sharing"
-      }
-    ]
-  }
+[{
+		"semester": 1,
+		"papers": [{
+				"paperName": "An Introduction to Political Science",
+				"year": "2017 - 18",
+				"paperUrl": "https://drive.google.com/file/d/1AiZdiF7S6cKeoZQPQsZ04MqoQ5_yIWD3/view"
+			},
+			{
+				"paperName": "An Introduction to Political Science",
+				"year": "2018 - 19",
+				"paperUrl": "https://drive.google.com/file/d/16SLrtlkZfv9CG5HJaP0uLaexQ_Ml22Pe/view"
+			},
+			{
+				"paperName": "An Introduction to Political Science",
+				"year": "2019 - 20",
+				"paperUrl": "https://drive.google.com/file/d/1g67AF8UW0CfNq0btnReQAkBDZrF9aOxW/view?usp=sharing"
+			},
+			{
+				"paperName": "An Introduction to Political Science",
+				"year": "2020 - 21",
+				"paperUrl": "https://drive.google.com/file/d/1Ic8HvEYPb8bKPaEVWv0l1rSyHMEw04KW/view?usp=sharing"
+			},
+			{
+				"paperName": "An Introduction to Political Science",
+				"year": "2021 - 22",
+				"paperUrl": "https://drive.google.com/file/d/1vZgnjZCQaxKtdA_9nupGHR9SCICKlQuT/view?usp=sharing"
+			},
+			{
+				"paperName": "An Introduction to Political Science",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1xEHNvq5lerrU6xiR7RQT7w-3PqGjULG3/view?usp=sharing"
+			},
+			{
+				"paperName": "Methodology of Literary Studies",
+				"year": "2017 - 18",
+				"paperUrl": "https://drive.google.com/file/d/1io5fpiXlG-qiJY68Amm0zN4k_m9SzZRo/view?usp=sharing"
+			},
+			{
+				"paperName": "Methodology of Literary Studies",
+				"year": "2018 - 19",
+				"paperUrl": "https://drive.google.com/file/d/1AEssTpJh0ZcoV7hSL78PQS-K0RUQjeRG/view?usp=sharing"
+			},
+			{
+				"paperName": "Methodology of Literary Studies",
+				"year": "2019 - 20",
+				"paperUrl": "https://drive.google.com/file/d/1bOY2_AVpdfDnDjeBtrV3HndK-IugQsjS/view?usp=sharing"
+			},
+			{
+				"paperName": "Methodology of Literary Studies",
+				"year": "2020 - 21",
+				"paperUrl": "https://drive.google.com/file/d/1qk5Adu82Te_tda6x8gSS9ZEo6ZoutMEi/view?usp=sharing"
+			},
+			{
+				"paperName": "Methodology of Literary Studies",
+				"year": "2021 - 22",
+				"paperUrl": "https://drive.google.com/file/d/1ifZhqzBekwLwookwmxRDBvQQyUli2ShT/view?usp=sharing"
+			},
+			{
+				"paperName": "Methodology of Literary Studies",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1LScBBQDIrOErEezojfy9Vrr_ipqxGyne/view?usp=sharing"
+			}
+		]
+	},
+	{
+		"semester": 2,
+		"papers": [{
+				"paperName": "Indian Constitution: Social Issues in India",
+				"year": "2017 - 18",
+				"paperUrl": "https://drive.google.com/file/d/1VMa-B1rkKWLdFoFow3xl28Y0aMZf_omg/view?usp=sharing"
+			},
+			{
+				"paperName": "Indian Constitution: Social Issues in India",
+				"year": "2018 - 19",
+				"paperUrl": "https://drive.google.com/file/d/1Ex7ed59fN7qh3OwpuLlHfpW1c4gnbED3/view?usp=sharing"
+			},
+			{
+				"paperName": "Indian Constitution: Social Issues in India",
+				"year": "2019 - 20",
+				"paperUrl": "https://drive.google.com/file/d/1DPDkRaFJnqciEXdDFsle0M4ELpaWbuGV/view?usp=sharing"
+			},
+			{
+				"paperName": "Indian Constitution: Social Issues in India",
+				"year": "2020 - 21",
+				"paperUrl": "https://drive.google.com/file/d/102DCAjBATut2YHH2TW3jXX7v9nlYAGj8/view?usp=sharing"
+			},
+			{
+				"paperName": "Indian Constitution: Social Issues in India",
+				"year": "2021 - 22",
+				"paperUrl": "https://drive.google.com/file/d/1bWXPIHhhPmiFsl_H3R8MWwD_QgpMYO0F/view?usp=share_link"
+			},
+			{
+				"paperName": "Introducing Language and Literature",
+				"year": "2017 - 18",
+				"paperUrl": "https://drive.google.com/file/d/1ifGIJuY52iUZrwpXGNeYEVNfHAFXxvyg/view?usp=sharing"
+			},
+			{
+				"paperName": "Introducing Language and Literature",
+				"year": "2018 - 19",
+				"paperUrl": "https://drive.google.com/file/d/1_pMmWiYjXDdTcN9NPmR7W0oahttlUzBE/view?usp=sharing"
+			},
+			{
+				"paperName": "Introducing Language and Literature",
+				"year": "2019 - 20",
+				"paperUrl": "https://drive.google.com/file/d/13D-CDJFzhdEMQXXrgBRt0C0OmrignMHF/view?usp=sharing"
+			},
+			{
+				"paperName": "Introducing Language and Literature",
+				"year": "2020 - 21",
+				"paperUrl": "https://drive.google.com/file/d/1JVHmYBm4aMrBg-OkqSwsus5RhxOxvx4A/view?usp=sharing"
+			},
+			{
+				"paperName": "Introducing Language and Literature",
+				"year": "2021 - 22",
+				"paperUrl": "https://drive.google.com/file/d/1Cv9Bc-wSsNWPYzb3O6gCKAPX6OIkeaac/view?usp=share_link"
+			}
+		]
+	}
 ]
