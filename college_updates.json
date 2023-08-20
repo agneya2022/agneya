@@ -1,28 +1,7 @@
 [
   {
-    "heading":"This is a test update 1",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et nibh a mi hendrerit mollis. Mauris hendrerit, dolor efficitur tristique venenatis, dolor erat sagittis nisl, eleifend cursus diam enim sit amet urna. Praesent auctor, dolor congue tincidunt aliquam, diam risus ultrices ante, eget tempus dolor nibh vitae nulla.",
-    "url":"https://www.google.com"
-  },
-  {
-    "heading":"This is a test update 2",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et nibh a mi hendrerit mollis. Mauris hendrerit, dolor efficitur tristique venenatis, dolor erat sagittis nisl, .",
-    "url":"www.google.com"
-  },
-  {
-    "heading":"This is a test update 3",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et nibh a mi hendrerit",
-    "url":"www.google.com"
-  },
-  {
-    "heading":"This is a test update 4",
-    "description":"Lorem ipsum dolor sit amet, ",
-    "url":"www.google.com"
-  },
-  {
-    "heading":"This is a test update 5",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et nibh a mi hendrerit mollis.",
-    "url":"www.google.com"
-  }
-  
+    "heading":"Aspire By Agneya App Launched",
+    "description":"Aspire by Agneya - An app for old question papers, university updates, college updates",
+    "url":"instagram.com/agneya.22_23/"
+  }  
 ]
