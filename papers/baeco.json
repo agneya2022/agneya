@@ -1,1 +1,29 @@
-
+[{
+		"semester": 1,
+		"papers": [{
+				"paperName": "Social Formations in Pre-Modern India",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1zqxGNrZHeF5IkeZWUgk2piJpUnbqlAzv/view?usp=share_link"
+			},
+			{
+				"paperName": "Perspectives and Methodology of Economics",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1jyCRxbYMdhLiD7zlaKzmcaOcMiMVZ29Z/view?usp=sharing"
+			}
+		]
+	},
+	{
+		"semester": 2,
+		"papers": [{
+				"paperName": "Transition to the Contemporary World",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1OxUp8yBXYkZZ_rMypCEnkRuTPpt80MBL/view?usp=drive_link"
+			},
+			{
+				"paperName": "Micro Economic Analysis - I",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1zLUSI2hoA6SoMe26ab63YVTLiRnSdeZx/view?usp=drive_link"
+			}
+		]
+	}
+]
