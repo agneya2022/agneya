@@ -1,3 +1,39 @@
-[
-  
+[{
+		"semester": 1,
+		"papers": [{
+				"paperName": "നാടകവും സിനിമയും",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1Q50q6AQoqthoQ9ue_XQU6ijXc7jV6UNm/view"
+			},
+			{
+				"paperName": "മലയാള പഠനത്തിന്റെ രീതിശാസ്ത്രം",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1t_Y_tl6Cp8SI35XblCnz6rLG8tTnju_Y/view"
+			},
+			{
+				"paperName": "നവീന കവിത",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1ZF9ndVn6v_60lZSi6YQ6S_UghXV1TY23/view"
+			}
+		]
+	},
+	{
+		"semester": 2,
+		"papers": [{
+				"paperName": "ഫോക്‌ലോർ വിജ്ഞാനം",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1GzIiMwXYgT1At2I0QsDnoz5oP63DddGh/view"
+			},
+			{
+				"paperName": "ആധുനിക ലോക കവിത",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/12M7i70terYqosSY3Or7OUG1mW8BZ37QX/view"
+			},
+			{
+				"paperName": "മലയാളകവിത - എഴുത്തച്ഛൻ മുതൽ കവിത്രയം വരെ",
+				"year": "2022 - 23",
+				"paperUrl": "https://drive.google.com/file/d/1AgsmSdIJN6edikBOjqihRBBS13UNneSm/view"
+			}
+		]
+	}
 ]
